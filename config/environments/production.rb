@@ -61,7 +61,7 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment).
   # config.active_job.queue_adapter     = :resque
-  # config.active_job.queue_name_prefix = "rails_new_with_webpack_production"
+  # config.active_job.queue_name_prefix = "rails_new_without_webpack_production"
 
   config.action_mailer.perform_caching = false
 
